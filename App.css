@@ -1,0 +1,58 @@
+body {
+background-color: rgb(149, 240, 240);
+}
+
+#box {
+background-color: rgb(233, 192, 252);
+border-radius: 10px;
+border-color: red;
+text-align: left;
+}
+
+
+#b1{
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+}
+
+#b2{
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+}
+
+#b3{
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+}
+
+#b4{
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+}
+
+p {
+    color: blue;
+}
+
+
+
+.nav-link {
+    color:red;
+}
+
+.accordion {
+    color: blue;
+}
+
+#bn {
+    color: blueviolet;
+    background-color:rgb(149, 240, 240) ;
+}
+
+.accordion-item {
+    background-color: aquamarine;
+}
